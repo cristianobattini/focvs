@@ -83,3 +83,4 @@ Nessun file audio, nessuna dipendenza esterna — tutto sintetizzato in real-tim
 Per l'audio in background su iOS, è già configurato `UIBackgroundModes: ["audio"]` in `app.json`.
 # biblio
 # focvs
+# focvs
